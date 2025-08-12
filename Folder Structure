@@ -1,0 +1,17 @@
+firmware-co-sim-log-analyzer/
+│
+├── app/
+│   ├── __init__.py
+│   ├── analyzer.py      
+│   ├── parser.py         
+│   ├── visualizer.py
+│   └── utils.py         
+│
+├── sample_logs/          
+│   ├── sas_log.txt
+│   ├── sata_log.txt
+│   └── pcie_log.txt
+│
+├── main.py              
+├── requirements.txt
+└── README.md
