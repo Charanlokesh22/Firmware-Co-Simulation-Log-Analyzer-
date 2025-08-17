@@ -16,3 +16,5 @@ plot_latency(latencies)
 print("Latency graph saved as latency_graph.png")
 
 
+
+
