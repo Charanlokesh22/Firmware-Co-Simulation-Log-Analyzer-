@@ -15,3 +15,4 @@ latencies = [0.5, 0.8, 0.6, 0.9, 0.4]
 plot_latency(latencies)
 print("Latency graph saved as latency_graph.png")
 
+
